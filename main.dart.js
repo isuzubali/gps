@@ -33692,7 +33692,7 @@ n.a=A.Mj(new A.k6(r),A.aED(s.a.cullRect()))
 for(q=this.a,p=A.a4(q).i("cm<1>"),q=new A.cm(q,p),q=new A.bw(q,q.gn(0),p.i("bw<aF.E>")),p=p.i("aF.E");q.q();){o=q.d
 if(o==null)o=p.a(o)
 o.uR(new A.ai9(n),B.qy)}a.r=n.a
-
+a.w=m.a.quickReject(A.eB(A.aED(s.a.cullRect())))
 m.a.restore()
 this.d.c.b.push(new A.EJ(a))}}
 A.ai9.prototype={
